@@ -1,0 +1,24 @@
+{
+  "name": "nicer-toolbox",
+  "version": "1.0.5",
+  "description": "A toolbox of useful functions including preventWidows and asyncForEach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maks112v/nicer-toolbox.git"
+  },
+  "author": "maks112v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maks112v/nicer-toolbox/issues"
+  },
+  "homepage": "https://github.com/maks112v/nicer-toolbox#readme",
+  "keywords": [
+    "toolbox",
+    "preventWidows",
+    "asyncForEach"
+  ]
+}
