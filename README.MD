@@ -1,5 +1,7 @@
 # Nicer Toolbox
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8c01ae16d131496f9dd5eef6ce629209)](https://app.codacy.com/manual/maks112v/nicer-toolbox?utm_source=github.com&utm_medium=referral&utm_content=maks112v/nicer-toolbox&utm_campaign=Badge_Grade_Dashboard)
+
 A toolbox of useful functions.
 
 ## List of functions
