@@ -7,7 +7,7 @@
 
 > A collection of useful functions
 
-### 🏠 [Homepage](https://www.npmjs.com/search?q=%40nicer-toolbox)
+### ⬇️ [NPM Packages](https://www.npmjs.com/search?q=%40nicer-toolbox)
 
 ## Author
 
