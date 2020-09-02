@@ -1,0 +1,15 @@
+{
+  "name": "@nicer-toolbox/async-for-each",
+  "version": "1.0.2",
+  "description": "Allows await inside of a foreach loop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "npm publish --access public"
+  },
+  "author": "",
+  "keywords": [
+    "asyncForEach"
+  ],
+  "license": "ISC"
+}
