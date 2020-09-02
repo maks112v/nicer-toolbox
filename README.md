@@ -14,7 +14,7 @@
 👤 **nicer**
 
 - Website: https://nicer.io/
-- Github: [@nicer](https://github.com/nicer)
+- Github: [@nicerstudio](https://github.com/nicerstudio)
 
 ## Show your support
 
