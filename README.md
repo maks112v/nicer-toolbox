@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> A collection of usefull functions
+> A collection of useful functions
 
 ### 🏠 [Homepage](https://www.npmjs.com/search?q=%40nicer-toolbox)
 
