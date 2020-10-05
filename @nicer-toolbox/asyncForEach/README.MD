@@ -6,9 +6,9 @@ Allows await inside of a foreach loop.
 
 ```js
 // For Node
-const { asyncForEach } = require("nicer-toolbox");
+const asyncForEach = require("@nicer-toolbox/async-for-each");
 // For React
-import { asyncForEach } from "nicer-toolbox";
+import asyncForEach from "@nicer-toolbox/async-for-each";
 
 // Basic Usage
 asyncForEach(arrayOfItems, callBackFunction);

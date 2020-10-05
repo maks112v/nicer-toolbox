@@ -1,6 +1,6 @@
 {
   "name": "@nicer-toolbox/async-for-each",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Allows await inside of a foreach loop.",
   "main": "index.js",
   "scripts": {
