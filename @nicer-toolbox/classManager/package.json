@@ -1,0 +1,17 @@
+{
+  "name": "@nicer-toolbox/class-manager",
+  "version": "1.0.1",
+  "description": "Improves className management in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "npm publish --access public"
+  },
+  "author": "",
+  "keywords": [
+    "className",
+    "classManager",
+    "tailwindcss"
+  ],
+  "license": "ISC"
+}
